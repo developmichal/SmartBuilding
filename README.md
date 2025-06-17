@@ -1,6 +1,6 @@
 # 🏢 Smart Building – Smart Building Management System
 
-> **Status:** In development, basic server side built, client side in planning
+**Status:** In development, basic server side built, client side in planning
 
 ## 🎯 Project Description
 
