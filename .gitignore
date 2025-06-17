@@ -1,0 +1,67 @@
+## קבצים כלליים של Visual Studio
+.vs/
+*.user
+*.suo
+
+## קבצי Build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## קבצים זמניים של Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+## קבצים של חבילות NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## קבצים אוטומטיים שנוצרים
+*.dbmdl
+*.log
+*.tlog
+*.tmp
+*.cache
+*.ide
+
+## סביבות עבודה
+*.userosscache
+*.sln.docstates
+
+## Publish results
+publish/
+*.Publish.xml
+
+## קבצי Debugging
+*.pdb
+
+## קבצים של IIS Express
+.vscode/
+.vs/
+*.vspscc
+*.vssscc
+
+## תצוגות מקומיות של git
+*.orig
+
+## Web artifacts
+wwwroot/node_modules/
+wwwroot/lib/
+node_modules/
+
+## Secret settings
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## DotNet CLI
+project.assets.json
+project.*.json
+
+## Rider
+.idea/
