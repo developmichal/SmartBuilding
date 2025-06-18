@@ -1,4 +1,4 @@
-# 🏢 Smart Building – Smart Building Management System
+#  SmartBuilding – Management System
 
 **Status:** In development, basic server side built, client side in planning
 
@@ -16,8 +16,8 @@ An innovative web system for tenants in a shared building. The goal: to streamli
 
 ## 🧩 Main features
 
-- ✅ House committee management
-- ✅ Tenant meetings (coordination, attendance, summary)
-- ✅ Payment management
-- ✅ Fault reporting and treatment status
-- ✅ General building notifications
+-  House committee management
+-  Tenant meetings (coordination, attendance, summary)
+-  Payment management
+-  Fault reporting and treatment status
+-  General building notifications
